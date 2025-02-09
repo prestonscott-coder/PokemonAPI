@@ -1,0 +1,32 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+    margin:5px
+    
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+  img{
+    display: block;
+    margin: 0 auto;
+    height: 350px;
+    width: 350px;
+  }
+  
+  
+  body{
+    background: url(https://applescoop.org/image/wallpapers/mac/cute-pokemon-illustration-wallpaper-pokemon-pokmon-japanese-video-game-movie-film-28-10-2024-1730183217-hd-wallpaper.jpg);
+    background-size: auto, 100%;
+   
+  }
+  
+  
+  /******************************************
+  /* ADDITIONAL STYLES
+  /*******************************************/
